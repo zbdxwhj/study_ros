@@ -1,0 +1,14 @@
+/home/wen/workspace/study_ros/test_ws/install/_setup_util.py
+/home/wen/workspace/study_ros/test_ws/install/env.sh
+/home/wen/workspace/study_ros/test_ws/install/setup.bash
+/home/wen/workspace/study_ros/test_ws/install/local_setup.bash
+/home/wen/workspace/study_ros/test_ws/install/setup.sh
+/home/wen/workspace/study_ros/test_ws/install/local_setup.sh
+/home/wen/workspace/study_ros/test_ws/install/setup.zsh
+/home/wen/workspace/study_ros/test_ws/install/local_setup.zsh
+/home/wen/workspace/study_ros/test_ws/install/.rosinstall
+/home/wen/workspace/study_ros/test_ws/install/lib/pkgconfig/beginner.pc
+/home/wen/workspace/study_ros/test_ws/install/share/beginner/cmake/beginnerConfig.cmake
+/home/wen/workspace/study_ros/test_ws/install/share/beginner/cmake/beginnerConfig-version.cmake
+/home/wen/workspace/study_ros/test_ws/install/share/beginner/package.xml
+/home/wen/workspace/study_ros/test_ws/install/lib/beginner/hello

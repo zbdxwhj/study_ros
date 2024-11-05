@@ -1,0 +1,8 @@
+prefix=/home/wen/workspace/study_ros/test_ws/devel
+
+Name: beginner
+Description: Description of beginner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+beginner
+-DCATKIN_DEVEL_PREFIX=/home/wen/workspace/study_ros/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wen/workspace/study_ros/test_ws/install -G Unix Makefiles
